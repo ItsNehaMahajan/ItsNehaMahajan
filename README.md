@@ -15,9 +15,9 @@
 ###
 
 <h4 align="left">💻 A Full Stack Developer with a keen interest in Modern Design as well as Development. I love to code, design and build cool things.<br><br>🔭 Currently working on Problem-solving skills<br><br></h4>
-<h2>👨‍💻 All of my projects are available at [https://github.com/ItsNehaMahajan]([https://github.com/ItsNehaMahajan](https://github.com/ItsNehaMahajan))</h2>
+<h4>👨‍💻 All of my projects are available at [https://github.com/ItsNehaMahajan]</h4>
 <br/>
-📫 How to reach me neham09042003@gmail.com
+<h4>📫 How to reach me neham09042003@gmail.com</h4>
 
 
 ###
