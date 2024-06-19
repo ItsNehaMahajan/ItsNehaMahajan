@@ -1,6 +1,7 @@
 
 <div align="center">
-  <img height="210" src="https://cdn.dribbble.com/users/2424687/screenshots/5348661/media/a2b91fc37ceb5fc0895c0bb3d9f22e49.png?compress=1&resize=400x300"  />
+
+  <img  src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 </div>
 
 ###
@@ -13,7 +14,11 @@
 
 ###
 
-<h4 align="left">💻 A Full Stack Developer with a keen interest in Modern Design as well as Development. I love to code, design and build cool things.<br><br>🔭 Currently working on Problem-solving skills<br><br>✅ Wanna collab? Ping me here: [neham09042003@gmail.com](mailto:neham09042003@gmail.com)</h4>
+<h4 align="left">💻 A Full Stack Developer with a keen interest in Modern Design as well as Development. I love to code, design and build cool things.<br><br>🔭 Currently working on Problem-solving skills<br><br></h4>
+- 👨‍💻 All of my projects are available at [https://github.com/SayaliMarathe-13](https://github.com/SayaliMarathe-13)
+
+- 📫 How to reach me **sayalimarathe13@gmail.com**
+
 
 ###
 
