@@ -15,9 +15,9 @@
 ###
 
 <h4 align="left">💻 A Full Stack Developer with a keen interest in Modern Design as well as Development. I love to code, design and build cool things.<br><br>🔭 Currently working on Problem-solving skills<br><br></h4>
-- 👨‍💻 All of my projects are available at [https://github.com/ItsNehaMahajan]([https://github.com/SayaliMarathe-13](https://github.com/ItsNehaMahajan))
-
-- 📫 How to reach me neham09042003@gmail.com
+<h2>👨‍💻 All of my projects are available at [https://github.com/ItsNehaMahajan]([https://github.com/ItsNehaMahajan](https://github.com/ItsNehaMahajan))</h2>
+<br/>
+📫 How to reach me neham09042003@gmail.com
 
 
 ###
@@ -44,7 +44,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="57" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="57" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="57" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="57" alt="bootstrap logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="57" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="57" alt="nodejs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="57" alt="mongodb logo"  />
