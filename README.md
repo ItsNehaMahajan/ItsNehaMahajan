@@ -52,3 +52,39 @@
 
 ###
 
+## See my Contributions
+<div align="center">
+  <a href="https://github.com/pruthviraj-chaudhari/weather-web-app">
+  
+  </a>
+  <a href="https://github.com/pruthviraj-chaudhari/NewsLetter-Using-Express">
+   
+  </a>
+  <a href="https://github.com/pruthviraj-chaudhari/Sticky-Notes">
+  </a>
+  <a href="https://github.com/pruthviraj-chaudhari/PortfolioSite">
+   
+  </a>
+  <a href="https://github.com/pruthviraj-chaudhari/Online-Job-Portal-using-Java">
+    
+  </a>
+  <a href="https://github.com/pruthviraj-chaudhari/New-Modern-Portfolio-Site">
+  </a>
+</div>
+
+<br/>
+<br/>
+
+## Connect with me:
+
+<p align="left">
+  <a href = "https://www.instagram.com/pruthviraj_chaudhari_20/?r=nametag"><img src="https://img.icons8.com/fluency/48/instagram-new.png"/></a>
+<a href = "http://linkedin.com/in/pruthviraj-chaudhari-8386ab230"><img src="https://img.icons8.com/fluency/48/linkedin.png"/></a>
+<a href = "https://twitter.com/Pruthviraj_2011"><img src="https://img.icons8.com/fluency/48/twitter.png"/></a>
+</p>
+
+## 👀 Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=pruthviraj-chaudhari">
+</a>
+<a href="https://github.com/pruthviraj-chaudhari?tab=followers"><img src="https://img.shields.io/github/followers/pruthviraj-chaudhari?label=Followers&style=social" alt="GitHub Badge"></a>
