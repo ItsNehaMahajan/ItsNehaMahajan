@@ -57,6 +57,7 @@
 #### 🔧 Backend & Database
 <p>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" /> Spring Boot &nbsp;
+  <img src="https://img.shields.io/badge/Spring MVC-6DB33F?style=flat-square&logo=spring&logoColor=white" /> Spring MVC &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" /> MySQL &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" /> MongoDB &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" /> Node.js &nbsp;
