@@ -101,3 +101,4 @@
 - ⚙️ [Explore more on GitHub →](https://github.com/ItsNehaMahajan)
 
 ---
+[![An image of @itsnehamahajan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/itsnehamahajan)](https://holopin.io/@itsnehamahajan)
